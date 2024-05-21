@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @audreensoh
+- 👀 I’m interested in coding, volleyball, baking, travel and much more!
+- 🌱 I’m currently working towards Master of Liberal Arts, Computer Science in Harvard Extension School.
+- 💞️ I'm keeping a record of my projects in this repository, hopefully it will help someone someday too!
+- 📫 How to reach me: Ask me! 
